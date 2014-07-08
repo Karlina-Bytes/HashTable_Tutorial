@@ -2,7 +2,7 @@
 //  LinkedList.h
 //  HashTable
 //
-//  Created by Kar Beringer on June 16, 2014.
+//  Created by Karlina Beringer on June 16, 2014.
 //
 //  This header file contains the Linked List class declaration.
 //  Hash Table array elements consist of Linked List objects.
